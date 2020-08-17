@@ -1,4 +1,4 @@
 # Hello-world
-Fist repository.
+First repository.
 
 # Git Hub　勉強用リポジトリ
